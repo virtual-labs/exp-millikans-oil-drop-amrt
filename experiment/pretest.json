@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Viscosity is most closely related to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diffusion",
+        "b": "Adhesive force",
+        "c": "Cohesive force",
+        "d": "Friction"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Diffusion is related but not primarily connected to viscosity.",
+        "b": "Adhesive force is not the dominant factor for viscosity.",
+        "c": "Cohesive forces between molecules influence viscosity most strongly.",
+        "d": "Friction occurs due to viscosity but is not the cause."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following one has greatest viscosity?",
+      "answers": {
+        "a": "Glycerin",
+        "b": "Air",
+        "c": "Water",
+        "d": "Mercury"
+      },
+      "explanations": {
+        "a": "Glycerin has very high viscosity due to strong intermolecular forces.",
+        "b": "Air has very low viscosity.",
+        "c": "Water has moderate viscosity.",
+        "d": "Mercury is dense but not as viscous as glycerin."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The clouds float in atmosphere which is due to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Their high temperature",
+        "b": "Their low viscosity",
+        "c": "Their creation of low pressure",
+        "d": "Their low terminal velocity"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "High temperature isn't the primary reason for floating.",
+        "b": "Viscosity isn't the factor in cloud buoyancy.",
+        "c": "Clouds don't create low pressure.",
+        "d": "Clouds have low terminal velocity allowing them to float."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
