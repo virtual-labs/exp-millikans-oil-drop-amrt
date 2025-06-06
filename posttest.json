@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The viscous drag on a spherical body moving with a speed ‘v’ is proportional to",
+      "answers": {
+        "a": "1/v²",
+        "b": "1/v",
+        "c": "v²",
+        "d": "v"
+      },
+      "explanations": {
+        "a": "Incorrect relationship.",
+        "b": "Not correct for viscous drag.",
+        "c": "Only true in turbulent regimes.",
+        "d": "Correct as per Stokes' Law: F ∝ v"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For an air bubble terminal velocity is",
+      "answers": {
+        "a": "Negative",
+        "b": "Positive",
+        "c": "None",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Velocity is not negative; it moves upward.",
+        "b": "Terminal velocity is positive as the bubble rises.",
+        "c": "Not a valid physical option.",
+        "d": "Terminal velocity is not zero."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Terminal velocity of an oil drop is proportional to",
+      "answers": {
+        "a": "1/r",
+        "b": "r²",
+        "c": "r",
+        "d": "1/r²"
+      },
+      "explanations": {
+        "a": "Not correct based on the physics.",
+        "b": "Correct according to Stokes' Law (v ∝ r²).",
+        "c": "Incorrect relation.",
+        "d": "Incorrect inverse-square relationship."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
