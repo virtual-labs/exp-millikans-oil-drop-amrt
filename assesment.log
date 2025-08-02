@@ -1,0 +1,15 @@
+=/pretest.json
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-millikans-oil-drop-amrt/exp-millikans-oil-drop-amrt/experiment/pretest.json'
+  ],
+  files: [
+    '/home/runner/work/exp-millikans-oil-drop-amrt/exp-millikans-oil-drop-amrt/experiment/pretest.json'
+  ],
+  c: 'assessment',
+  contentTypes: 'assessment',
+  'content-types': 'assessment',
+  '$0': 'validate'
+}
+Validated true

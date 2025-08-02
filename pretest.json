@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Viscosity is most closely related to",
+      "answers": {
+        "a": "Diffusion",
+        "b": "Adhesive force",
+        "c": "Cohesive force",
+        "d": "Friction"
+      },
+      "explanations": {
+        "a": "Diffusion is related but not primarily connected to viscosity.",
+        "b": "Adhesive force is not the dominant factor for viscosity.",
+        "c": "Cohesive forces between molecules influence viscosity most strongly.",
+        "d": "Friction occurs due to viscosity but is not the cause."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following one has greatest viscosity?",
+      "answers": {
+        "a": "Glycerin",
+        "b": "Air",
+        "c": "Water",
+        "d": "Mercury"
+      },
+      "explanations": {
+        "a": "Glycerin has very high viscosity due to strong intermolecular forces.",
+        "b": "Air has very low viscosity.",
+        "c": "Water has moderate viscosity.",
+        "d": "Mercury is dense but not as viscous as glycerin."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The clouds float in atmosphere which is due to",
+      "answers": {
+        "a": "Their high temperature",
+        "b": "Their low viscosity",
+        "c": "Their creation of low pressure",
+        "d": "Their low terminal velocity"
+      },
+      "explanations": {
+        "a": "High temperature isn't the primary reason for floating.",
+        "b": "Viscosity isn't the factor in cloud buoyancy.",
+        "c": "Clouds don't create low pressure.",
+        "d": "Clouds have low terminal velocity allowing them to float."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The viscous drag on a spherical body moving with a speed ‘v’ is proportional to",
+      "answers": {
+        "a": "1/v²",
+        "b": "1/v",
+        "c": "v²",
+        "d": "v"
+      },
+      "explanations": {
+        "a": "Incorrect relationship.",
+        "b": "Not correct for viscous drag.",
+        "c": "Only true in turbulent regimes.",
+        "d": "Correct as per Stokes' Law: F ∝ v"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For an air bubble terminal velocity is",
+      "answers": {
+        "a": "Negative",
+        "b": "Positive",
+        "c": "None",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Velocity is not negative; it moves upward.",
+        "b": "Terminal velocity is positive as the bubble rises.",
+        "c": "Not a valid physical option.",
+        "d": "Terminal velocity is not zero."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Terminal velocity of an oil drop is proportional to",
+      "answers": {
+        "a": "1/r",
+        "b": "r²",
+        "c": "r",
+        "d": "1/r²"
+      },
+      "explanations": {
+        "a": "Not correct based on the physics.",
+        "b": "Correct according to Stokes' Law (v ∝ r²).",
+        "c": "Incorrect relation.",
+        "d": "Incorrect inverse-square relationship."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
