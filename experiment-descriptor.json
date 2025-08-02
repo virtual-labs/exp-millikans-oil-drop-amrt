@@ -24,7 +24,7 @@
     {
       "target": "pretest.html",
       "source": "pretest.json",
-      "label": "Pretest",
+      "label": "Self Evaluation",
       "unit-type": "task",
       "content-type": "assesment"
     },
@@ -44,11 +44,11 @@
       "additional-sources": []
     },
     {
-      "target": "posttest.html",
-      "source": "posttest.json",
-      "label": "Posttest",
+      "target": "assignment.html",
+      "source": "assignment.md",
+      "label": "Assignment",
       "unit-type": "task",
-      "content-type": "assesment"
+      "content-type": "text"
     },
     {
       "target": "references.html",
